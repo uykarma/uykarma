@@ -85,6 +85,7 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=uykarma&show_icons=true&locale=en&layout=compact"
         alt="uykarma" /></p>
 <br />
+<hr />
 <br />
-    ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHU2cXZpd2hiNzBsbGQ3YTlheDNkODgwZjBsMjA2eWoweHB4ZWs4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif)
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHU2cXZpd2hiNzBsbGQ3YTlheDNkODgwZjBsMjA2eWoweHB4ZWs4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif)
 
