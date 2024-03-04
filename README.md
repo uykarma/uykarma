@@ -83,3 +83,9 @@
 <p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=uykarma&show_icons=true&locale=en&layout=compact"
         alt="uykarma" /></p>
+
+<br />
+<hr />
+<br />
+
+<iframe src="https://giphy.com/embed/lJNoBCvQYp7nq" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reddit-doing-lJNoBCvQYp7nq">keep working</a></p>
