@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Manuel Garay</h1>
 <h3 align="center">a Full-Stack Software Developer from Uruguay</h3>
 
-- 🌱 I’m currently learning **a degree from university**
+- 🔭 I’m currently studying **Licenciatura en Tecnologias de la Informacion on UTEC**
+
+- 👯 I’m looking to collaborate on **any project that may need**
+
+- 🤝 I’m looking for an opportunity **on any IT related enterprise**
+
+- 💬If u want to know more **feel free to ask**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
