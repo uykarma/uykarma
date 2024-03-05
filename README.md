@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for an opportunity **on any IT related enterprise**
 
-- 💬If u want to know more **feel free to ask**
+- 💬If u want to know more **manuel_garay_charlo@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
